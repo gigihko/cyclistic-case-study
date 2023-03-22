@@ -8,7 +8,7 @@ The executive team is on the lookout for ways to drive growth and is considering
 
 As a junior data analyst on Cyclistic's marketing analytics team, I've been tasked with presenting to executives my findings and recommendations once I've thoroughly explored, processed and analyzed any relevant data.
 
-You'll find the written report on my data analysis process in the cyclistic-case-study.rmd file above.
+You'll find the written report on my data analysis process in the https://github.com/gigihko/cyclistic-case-study/blob/main/cyclistic-case-study.Rmd file above.
 
 My case study visuals: 
 
