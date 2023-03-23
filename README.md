@@ -10,6 +10,8 @@ As a junior data analyst on Cyclistic's marketing analytics team, I've been task
 
 You'll find the written report on my data analysis process in the [here the code](https://github.com/gigihko/cyclistic-case-study/blob/main/cyclistic-case-study.Rmd) file above.
 
+My Analysis at Kaggle: https://www.kaggle.com/code/giko99/cyclistic-case-study-march-2022-to-february-2023
+
 My case study visuals: 
 
 My presentation to (fictional) stakeholders: 
